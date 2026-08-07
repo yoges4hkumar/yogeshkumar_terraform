@@ -8,8 +8,12 @@ varrg={
         location = "central india"
     }
     rg3={
-       name = "rg_kumar2"
+       name = "rg_kumar3"
         location = "central india" 
+    }
+    rg4={
+      name = "rg_kumar4"
+        location = "central india"   
     }
 }
 
