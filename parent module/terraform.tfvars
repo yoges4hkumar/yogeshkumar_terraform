@@ -19,6 +19,10 @@ varrg={
       name = "rg_kumar5"
         location = "central india"   
     }
+     rg6={
+      name = "rg_yogeshdon"
+        location = "central india"   
+    }
 }
 
 varvnet={
